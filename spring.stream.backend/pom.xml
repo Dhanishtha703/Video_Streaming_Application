@@ -12,7 +12,7 @@
 	<artifactId>spring.stream.backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring.stream.backend</name>
-	<description>This is a video streaming app</description>
+	<description>This is a video streaming app perform using meta data</description>
 	<url/>
 	<licenses>
 		<license/>
